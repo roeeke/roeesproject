@@ -1,0 +1,22 @@
+#medialinks{ width: 30%;}
+
+#div1{
+   background-color: rgb(217, 90, 90);
+   display: block;
+   padding-left: 44%;
+   border-radius: 15px;
+   border: 2px black solid;
+   margin: 10px;}
+   
+h1{
+   color: rgb(255, 127, 187); font-size: 30px; letter-spacing: 6px;}
+
+.nice{
+   text-align: center;}
+
+   #first{    margin-left: 27%;
+      width: 40%;}
+
+      #medialinks{margin-left: 34%;}
+
+      #mkfrnds{text-align: center;}
